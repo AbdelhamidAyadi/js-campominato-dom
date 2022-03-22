@@ -41,3 +41,9 @@ footer p{
 .clicked{
     background-color: aqua ;
 }
+.red{
+    background-color: red;
+}
+.black {
+    font-weight: 900;
+}
